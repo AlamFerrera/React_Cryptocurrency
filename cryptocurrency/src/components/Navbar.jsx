@@ -11,8 +11,7 @@ const Navbar = () => {
                 <Avatar src={icon}
                         size="large"/>
                 <Typography.Title level={2}
-                className='logo'
-                >
+                className='logo'>
                    <Link to="/">
                        Cryptoverse
                     </Link>
